@@ -28,6 +28,7 @@ C:\Users\Orarmor\Documents\Orarmor\IT\WEB\PushNotificationSample\platforms\andro
 C:\Users\Orarmor\Documents\Orarmor\IT\WEB\PushNotificationSample\platforms\android\assets\www\css\index.css \
 C:\Users\Orarmor\Documents\Orarmor\IT\WEB\PushNotificationSample\platforms\android\assets\www\img\logo.png \
 C:\Users\Orarmor\Documents\Orarmor\IT\WEB\PushNotificationSample\platforms\android\assets\www\js\index.js \
+C:\Users\Orarmor\Documents\Orarmor\IT\WEB\PushNotificationSample\platforms\android\assets\www\js\PushNotification.js \
 C:\Users\Orarmor\Documents\Orarmor\IT\WEB\PushNotificationSample\platforms\android\assets\www\res\icon \
 C:\Users\Orarmor\Documents\Orarmor\IT\WEB\PushNotificationSample\platforms\android\assets\www\res\screen \
 C:\Users\Orarmor\Documents\Orarmor\IT\WEB\PushNotificationSample\platforms\android\assets\www\res\icon\android \
